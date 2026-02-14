@@ -23,11 +23,11 @@ This project focuses on analyzing sales data using Microsoft Excel to uncover tr
 - Excel-Sales-Analysis.xlsx (main project file)
 - Dashboard screenshots
 
-## Author
-Michael Favour Owonubi
-Aspiring Data Analyst
-
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard1.png)
 ![Dashboard](screenshots/dashboard2.png)
+
+## Author
+Michael Favour Owonubi
+Aspiring Data Analyst
